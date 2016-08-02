@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1027404374050",
+    "firebase_url": "https://ezrip-84dbf.firebaseio.com",
+    "project_id": "ezrip-84dbf",
+    "storage_bucket": "ezrip-84dbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027404374050:android:83336fd138229ee5",
+        "android_client_info": {
+          "package_name": "com.gugi.travel.ezrip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027404374050-udgq4bejft1ajhivm96i2vtbevam4ebp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr4pqCNHSmpVlHnvLQgzN6vPGzVmhu05Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
